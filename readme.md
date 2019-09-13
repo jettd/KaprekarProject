@@ -1,3 +1,12 @@
+ASSIGNMENT 1 PART 3
+
+ https://github.com/jettd/KaprekarProject
+ 
+ Jett Durante 09/13/19
+
+
+
+
 
 ## Computer Science I - GitHub Assignment
 
